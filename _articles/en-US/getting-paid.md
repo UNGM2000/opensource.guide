@@ -1,4 +1,4 @@
----
+
 locale: en-US
 title: Getting Paid for Open Source Work
 description: Sustain your work in open source by getting financial support for your time or your project.
@@ -39,7 +39,7 @@ There are many reasons why a person would not want to be paid for their open sou
   <p markdown="1" class="pquote-credit">
 — @alloy, ["Why We Don't Accept Donations"](http://blog.cocoapods.org/Why-we-dont-accept-donations/)
   </p>
-</aside>
+</ai
 
 For others, especially when contributions are ongoing or require significant time, getting paid to contribute to open source is the only way they can participate, either because the project requires it, or for personal reasons.
 
@@ -49,7 +49,7 @@ Maintaining popular projects can be a significant responsibility, taking up 10 o
   <img src="https://avatars2.githubusercontent.com/u/381411?v=3&s=460" class="pquote-avatar" alt="avatar">
   Ask any open source project maintainer, and they will tell you about the reality of the amount of work that goes into managing a project. You have clients. You are fixing issues for them. You are creating new features. This becomes a real demand on your time.
   <p markdown="1" class="pquote-credit">
-— @ashedryden, ["The Ethics of Unpaid Labor and the OSS Community"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
+— @ashedryden, ["The Ethics of Unpaid Labor and the OSS Community"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-communit
   </p>
 </aside>
 
